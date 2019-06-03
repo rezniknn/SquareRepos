@@ -1,0 +1,7 @@
+<resources>
+    <string name="base_url">https://api.github.com/</string>
+    <string name="app_name">SquareRepos</string>
+    <string name="stars_label">Stars:</string>
+    <string name="add_to_bookmarks">Add to bookmarks</string>
+    <string name="remove_from_bookmarks">Remove from bookmarks</string>
+</resources>
